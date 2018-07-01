@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminal Hacker", "Terminal Hacker.csproj", "{3C569BDB-9A9A-8B06-BAEE-952860FA67C6}"
 EndProject
 Global

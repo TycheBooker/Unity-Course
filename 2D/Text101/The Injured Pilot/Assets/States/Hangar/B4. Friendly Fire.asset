@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c5c6cefa31847c7baeaf16700183ab, type: 3}
+  m_Name: B4. Friendly Fire
+  m_EditorClassIdentifier: 
+  storyText: "You tear off a piece of metal framing from your leather airship pilot
+    armour and hold it ready as a shiv of sorts. As the door opens you rush at your
+    captor, leaping like a crazy person and hollering a primal scream of rage.\n\nPayback
+    time for your beating and from all the pain these dirty Festers have caused your
+    family. You drive home your metal shiv. You hear the crunch of bones and feel
+    the slice of flesh. \n\nAfter a brief struggle, there is stillness. You look down
+    and see... oh my lord... you see... yourself? What? How?\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 168c3ffabbb38469a9dd60e79fd394d7, type: 2}

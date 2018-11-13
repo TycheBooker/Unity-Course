@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c5c6cefa31847c7baeaf16700183ab, type: 3}
+  m_Name: S1. Onboard But Only Just
+  m_EditorClassIdentifier: 
+  storyText: "You scramble aboard your airship. With all of your remaining strength,
+    you lift the anchoring rope off its huge hook and give an all mighty shove.\n\nAs
+    you start to drift out of the hangar, you hear shouts of dismay from a nearby
+    group of Festers. \n\n\"So long suckers! May we never meet again!\", you holler.
+    You may, you may not. Time will tell. \n\nYou've won this battle. Now, on with
+    the war!\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: c8820c0a61926425f96be525f8512440, type: 2}

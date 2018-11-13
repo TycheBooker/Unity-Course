@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87c5c6cefa31847c7baeaf16700183ab, type: 3}
+  m_Name: A5. Lock Smashing
+  m_EditorClassIdentifier: 
+  storyText: 'Got to be something around here to help with some smashy smashy. You
+    see a crate with all manner of pipes, wires and cogs scattered within it. Mostly
+    trash.
+
+
+    You could try the brute force approach - wack the lock with one of the pipes.
+    Or you could take some time to build a contraption with some kind of leverage,
+    maybe a mini pulley system with those wires and the cogs.
+
+
+    How to proceed?
+
+    1. No time to waste, grab the pipe, start wacking.
+
+    2. Take the time to build a leverage-gadget.'
+  nextStates:
+  - {fileID: 11400000, guid: 71315571b161a4a0eba23ab24e9745c4, type: 2}
+  - {fileID: 11400000, guid: 71315571b161a4a0eba23ab24e9745c4, type: 2}
